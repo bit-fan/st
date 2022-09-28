@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App button {
+  margin: 5px;
+}
+
+.App table {
+  /* border: solid 1px grey; */
+  margin: auto;
+  width: 90%;
+}
+
+.App table th,
+.App table td {
+  border: solid 1px grey;
+}
